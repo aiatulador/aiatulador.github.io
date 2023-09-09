@@ -295,3 +295,11 @@
   .small-book {
     float: left;
   }
+
+  /* styles.css */
+.img-circle {
+  border-radius: 100%;
+  /* If you want a fixed width and height, you can add the following properties */
+  width: 250px; /* Adjust the size as needed */
+  height: 250px; /* Adjust the size as needed */
+}
